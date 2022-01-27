@@ -4,7 +4,7 @@
 Настройка
 - Добавить authtoken в ngrok.yml
 - добавить TOKEN: в pm2.config.js
-- При желании поменять порт в pm2.config.js, скрипте ngrok
+- При желании поменять порт в файле pm2.config.js и скрипте ngrok, он должен быть одинаков
 
 Запуск
 - npm run pm2
