@@ -2,8 +2,8 @@
 - npm ci
 
 Настройка
-- Добавить authtoken в ngrok.yml
-- добавить TOKEN: в pm2.config.js
+- Добавить ngrok authtoken в ngrok.yml
+- добавить телеграм TOKEN: в pm2.config.js
 - При желании поменять порт в файле pm2.config.js и скрипте ngrok, он должен быть одинаков
 
 Запуск
